@@ -1,0 +1,54 @@
+﻿@page
+@model Riddels.Pages.userpageModel
+@{
+}
+<br /> <br>
+<H1>
+    User Page
+</H1>
+<!-- Add this in your <head> section or include it from a CDN -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <div class="container">
+
+       @if(Model.Questions!=null && Model.Questions.Count>0)
+        {
+    <form method="post">
+        <input type="text" name="questionIDD" value="@Model.Questions[Model.CurrentQuestionIndex].id">
+        <input type="text" name="user" value="@Model.Questions[Model.CurrentQuestionIndex].correct">
+                <div class="question-container">
+                <p>@Model.Questions[Model.CurrentQuestionIndex].qst</p>
+                        </div>
+                <h4>Select Your Answer :</h4><br />
+                <select name="answer">
+                    <option value="">................Select...................</option>
+            <option value="1">@Model.Questions[Model.CurrentQuestionIndex].opt1</option>
+            <option value="2">@Model.Questions[Model.CurrentQuestionIndex].opt2</option>
+            <option value="3">@Model.Questions[Model.CurrentQuestionIndex].opt3</option>
+                
+        </select><br /><br />
+        <button type="submit">Submit And Next Question</button>&nbsp;&nbsp;&nbsp;
+        </form>
+
+        <form asp-page-handler="NextQuestion">
+
+            <button type="submit">Next</button>
+        </form>
+            
+        <br /><br />
+    <input type="text" name="que" value="@Model.dddd">
+
+    <br /><br />
+        
+}
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">
+                @Model.ErrorMessage
+            </div>
+        }
+    </div>
+
+<!-- Add this at the end of your Razor Page -->
+
+

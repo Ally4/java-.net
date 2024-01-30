@@ -1,0 +1,89 @@
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\appsettings.Development.json
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\appsettings.json
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.staticwebassets.runtime.json
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.exe
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.deps.json
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.runtimeconfig.json
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\Riddels.pdb
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.GeneratedMSBuildEditorConfig.editorconfig
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfoInputs.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfo.cs
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.csproj.CoreCompileInputs.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.MvcApplicationPartsAssemblyInfo.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cs
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.Riddels.Microsoft.AspNetCore.StaticWebAssets.props
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.build.Riddels.props
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Riddels.props
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Riddels.props
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets.pack.json
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets.build.json
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\staticwebassets.development.json
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\scopedcss\bundle\Riddels.styles.css
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\scopedcss\projectbundle\Riddels.bundle.scp.css
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.dll
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\refint\Riddels.dll
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.pdb
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.genruntimeconfig.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\ref\Riddels.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\sudy1\dot net\Riddels\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.csproj.AssemblyReference.cache
+F:\sudy1\dot net\Riddels\obj\Debug\net6.0\Riddels.csproj.CopyComplete
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.dll
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\refint\Riddels.dll
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.pdb
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\appsettings.json
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.staticwebassets.runtime.json
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.exe
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.deps.json
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.runtimeconfig.json
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\Riddels.pdb
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.csproj.AssemblyReference.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfoInputs.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfo.cs
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.csproj.CoreCompileInputs.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cs
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.Riddels.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.build.Riddels.props
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Riddels.props
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Riddels.props
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\scopedcss\bundle\Riddels.styles.css
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\scopedcss\projectbundle\Riddels.bundle.scp.css
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.csproj.CopyComplete
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\Riddels.genruntimeconfig.cache
+C:\Users\SHEMA 01\Desktop\Riddels\obj\Debug\net6.0\ref\Riddels.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\SHEMA 01\Desktop\Riddels\bin\Debug\net6.0\itextsharp.dll
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.csproj.AssemblyReference.cache
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.AssemblyInfo.cs
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cache
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.RazorAssemblyInfo.cs
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.dll
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\refint\Riddels.dll
+C:\Users\ally\Desktop\exa\Riddels\obj\Debug\net6.0\Riddels.pdb
